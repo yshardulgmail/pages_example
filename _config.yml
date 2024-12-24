@@ -1,5 +1,5 @@
 title: "HostOS Reports"
-repository: cloudlab/hostos-reports/tree/master 
+repository: cloudlab/hostos-reports/ 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: wider
 aux_links:
