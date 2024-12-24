@@ -1,6 +1,6 @@
-title: Test Docs
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: "HostOS Documentation"
+repository: cloudlab/hostos-docs/tree/docs-r1 
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: wider
 
