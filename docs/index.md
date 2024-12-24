@@ -2,12 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-has_toc: true
+has_toc: false
 permalink: /
-nav_enabled: true
 ---
 
-# HostOS Documenation 
+# HostOS Reports 
 Welcome to the documentation for the HostOS Team.
 {: .fs-6 .fw-300 }
 
