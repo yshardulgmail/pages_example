@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 has_toc: false
 permalink: /
+nav_enabled: true
 ---
 
 # HostOS Documenation 
