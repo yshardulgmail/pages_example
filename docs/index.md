@@ -6,8 +6,8 @@ has_toc: false
 permalink: /
 ---
 
-# HostOS Reports 
-Find all HostOS reports here.
+# HostOS Documenation 
+Welcome to the documentation for the HostOS Team.
 {: .fs-6 .fw-300 }
 
 <details markdown="block">
@@ -22,7 +22,7 @@ ____
 
 ---
 
-[Contributing](./docs/contributing.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.ibm.com/cloudlab/hostos-reports){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Contributing](./docs/contributing.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.ibm.com/cloudlab/hostos-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## About
 

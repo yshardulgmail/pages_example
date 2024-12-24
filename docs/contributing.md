@@ -28,7 +28,7 @@ ____
 1. Clone repo
 
       ```bash
-      git clone  git@github.ibm.com:cloudlab/hostos-reports.git -b master
+      git clone  git@github.ibm.com:cloudlab/hostos-docs.git -b docs-r1
       ```
 
 2. Create branch
@@ -71,12 +71,54 @@ ____
       docs
       ├── attachments
       │   └── contributing1.png
-      ├── HostOS BRT
-      |   ├── Base OS
-      │   │   │   ├── 5.5.6/6.5.6/7.5.6
-      │   │   │   └── 5.5.5/6.5.5/7.5.5
+      ├── compliance
+      │   ├── Cipher.md
+      │   ├── Compliance.md
+      │   ├── Critical-Security-Control-Failure-Monitoring-Policies.md
+      │   ├── Debian-Inventory-validation.md
+      │   ├── Iptables-rules-validation--HostOS-Mzone-nodes.md
+      │   ├── Onboarding_services_protocol_daemon.md
+      │   ├── Secure-Supply-Chain.md
+      │   ├── attachments
+      │   │   ├── 383943440
+      │   │   │   ├── 383943441.png
+      │   │   │   └── 383943465.png
+      │   │   ├── 383943687
+      │   │   │   └── 383943713.png
+      │   │   ├── 429272138
+      │   │   │   ├── 429272178.png
+      │   │   │   ├── 429272182.png
+      │   │   │   ├── 429272184.png
+      │   │   │   ├── 429272185.png
+      │   │   │   ├── 429272186.png
+      │   │   │   ├── 429272292.png
+      │   │   │   ├── 429272298.png
+      │   │   │   ├── 429272299.png
+      │   │   │   ├── 500532050.png
+      │   │   │   ├── 500532051.png
+      │   │   │   └── 500532053.png
+      │   │   └── 429274090
+      │   │       └── 429274138.png
+      │   └── process_overview
+      │       ├── Code-change-and-review-procedures_429272138.md
+      │       ├── Onboarding-New-Debian-Package_392634320.md
+      │       ├── Process-Overview_392634318.md
+      │       └── attachments
+      │           └── 429272138
+      │               ├── 429272178.png
+      │               ├── 429272182.png
+      │               ├── 429272184.png
+      │               ├── 429272185.png
+      │               ├── 429272186.png
+      │               ├── 429272292.png
+      │               ├── 429272298.png
+      │               ├── 429272299.png
+      │               ├── 500532050.png
+      │               ├── 500532051.png
+      │               └── 500532053.png
       ├── contributing.md
       └── index.md
+
 
       ```
 

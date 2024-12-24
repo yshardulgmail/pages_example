@@ -1,9 +1,9 @@
-title: "HostOS Reports"
-repository: cloudlab/hostos-reports/ 
+title: "HostOS Documentation"
+repository: cloudlab/hostos-docs/tree/docs-r1 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: wider
 aux_links:
-    "HostOS Docs ":
-        - "https://pages.github.ibm.com/cloudlab/hostos-docs"
+    "Release bundle ":
+        - "https://github.ibm.com/cloudlab/srb/blob/master/architecture/hostos/OperatorNotes.md"
 
 footer_content: "Copyright &copy; IBM Corporation 2024."
